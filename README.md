@@ -11,7 +11,7 @@
 
 ## Download
 * VS Code: https://code.visualstudio.com/download
-SE Java: https://www.oracle.com/technetwork/java/javase/downloads/index.html
+* SE Java: https://www.oracle.com/technetwork/java/javase/downloads/index.html
 * Debugger for Java: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug
 ```
 ext install vscode-java-debug
@@ -47,16 +47,17 @@ public class HelloWorld {
 
 
 ## Java Access Modifiers Table for Variable
-* Visibility	Public Access Modifier	Private Access Modifier	Protected Access Modifier	Default Access Modifier
-* Within Same Class	Yes	Yes	Yes	Yes
-From Any Class in Same Package	Yes	No	Yes	Yes
-* From Any Sub Class in Same Package	Yes	No	Yes	Yes
-* From Any Sub Class from Different Package	Yes	No	Yes(Only By Inheritance)	No
-* From Any Non-Sub Class in Different Package	Yes	No	No	No
+| Visibility | Public Access Modifier |	Private Access Modifier |	Protected Access Modifier |	Default Access Modifier |
+| ------------- | ------------- | ------------- | ------------- |------------- |
+| Within Same Class |	Yes |	Yes |	Yes |	Yes |
+| From Any Class in Same Package | Yes | No | Yes |	Yes |
+| From Any Sub Class in Same Package | Yes | No | Yes |	Yes |
+| From Any Sub Class from Different Package | Yes | No | Yes	No	Yes(Only By Inheritance) |	No |
+| From Any Non-Sub Class in Different Package | Yes | No | No |	No |
 
 
 
-## Java Inheritance (Subclass and Superclass)
+### Java Inheritance (Subclass and Superclass)
 * superclass (parent) - the class being inherited from
 * subclass (child) - the class that inherits from another class
 
