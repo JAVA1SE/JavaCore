@@ -1,0 +1,29 @@
+01. Check java version: java -version
+02. Compile java code: javac HelloWorl.java
+03. Run Java code: java HelloWorl
+
+F5: Run code
+F10: Denbug step over
+
+Java debugging:
+https://code.visualstudio.com/docs/java/java-debugging
+
+
+
+
+Code format:  Sft + Opt + F 
+https://stackoverflow.com/questions/29973357/how-do-you-format-code-in-visual-studio-code-vscode
+
+
+
+
+Tutorials: 
+https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
+https://www.w3schools.com/java/default.asp
+
+Java collection: 
+https://www.javatpoint.com/collections-in-java
+
+
+
+
