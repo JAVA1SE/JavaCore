@@ -61,5 +61,10 @@ public class HelloWorld {
 * superclass (parent) - the class being inherited from
 * subclass (child) - the class that inherits from another class
 
+### More References:
+* Writing Java with Visual Studio Code: https://code.visualstudio.com/docs/java/java-tutorial
+* Language Support for Java(TM) by Red Hat: https://marketplace.visualstudio.com/items?itemName=redhat.java
+* Java Extension Pack: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+
 
 
